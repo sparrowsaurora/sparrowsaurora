@@ -64,9 +64,21 @@ Built with: HTML, CSS, JavaScript
 
 Description: This website was made to be something special to me, im not the best at design so i wanted something unique and not fully static.
 plus.. if you can work this website, i know youre someone id love to work with.
-Made with HTML, minimal CSS and a LOT of JavaScript.
 
 Link: [github.com/sparrowsaurora/Terminal-Portfolio](https://github.com/sparrowsaurora/Terminal-Portfolio)
+
+### File Structure Mapper
+
+![File Structure Mapper header image](https://github.com/sparrowsaurora/File-Stucture-Mapper/blob/main/project_header.gif)
+
+Built with: Python
+
+Description: I was frustrated with manually making file maps so I made this.
+A Python utility that generates a Markdown file map of a directory structure, providing an easy-to-read, hierarchical 
+representation of files and directories. This tool is useful for documenting project structures, enhancing team collaboration, 
+and keeping track of complex directory setups.
+
+Link: [github.com/sparrowsaurora/File-Stucture-Mapper](https://github.com/sparrowsaurora/File-Stucture-Mapper)
 
 ### Adaptive Chess Bot
 
