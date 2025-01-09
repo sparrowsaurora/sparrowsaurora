@@ -50,7 +50,7 @@ Yuki also has a display model made with C# and displayed with a Raspberry Pi and
 this allows for a more immersive experience and a more natural way of interacting with Yuki.
 As well as the ability to have yuki use computer vision and speach processing to help with real life tasks.
 
-`Python,` `C#`
+`Python` `C#`
 
 Link: [github.com/sparrowsaurora/Yuki](https://github.com/sparrowsaurora/Yuki)
 
@@ -63,7 +63,7 @@ Link: [github.com/sparrowsaurora/Yuki](https://github.com/sparrowsaurora/Yuki)
 This website was made to be something special to me, im not the best at design so i wanted something unique and not fully static.
 plus.. if you can work this website, i know youre someone id love to work with.
 
-`HTML,` `CSS,` `JavaScript`
+`HTML` `CSS` `JavaScript`
 
 Link: [github.com/sparrowsaurora/Terminal-Portfolio](https://github.com/sparrowsaurora/Terminal-Portfolio)
 
