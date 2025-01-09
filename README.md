@@ -44,13 +44,13 @@ Contact me at: [sparrows.au@gmail.com](mailto:sparrows_aurora)
 
 ### Yuki
 
-Built with: Python, C#, Raspberry Pi
-
-Description: Yuki is my passion project, an AI assistant that helps me with my coding and other tasks.
+Yuki is my passion project, an AI assistant that helps me with my coding and other tasks.
 That can also communticate with me using a custom voice module and humanised speech,
 Yuki also has a display model made with C# and displayed with a Raspberry Pi and a 7 inch screen.
 this allows for a more immersive experience and a more natural way of interacting with Yuki.
 As well as the ability to have yuki use computer vision and speach processing to help with real life tasks.
+
+`Python,` `C#`
 
 Link: [github.com/sparrowsaurora/Yuki](https://github.com/sparrowsaurora/Yuki)
 
@@ -60,10 +60,10 @@ Link: [github.com/sparrowsaurora/Yuki](https://github.com/sparrowsaurora/Yuki)
 
 [Check it out here](https://sparrowsaurora.github.io/Terminal-Portfolio/)
 
-Built with: HTML, CSS, JavaScript
-
-Description: This website was made to be something special to me, im not the best at design so i wanted something unique and not fully static.
+This website was made to be something special to me, im not the best at design so i wanted something unique and not fully static.
 plus.. if you can work this website, i know youre someone id love to work with.
+
+`HTML,` `CSS,` `JavaScript`
 
 Link: [github.com/sparrowsaurora/Terminal-Portfolio](https://github.com/sparrowsaurora/Terminal-Portfolio)
 
@@ -71,12 +71,12 @@ Link: [github.com/sparrowsaurora/Terminal-Portfolio](https://github.com/sparrows
 
 ![File Structure Mapper header image](https://github.com/sparrowsaurora/File-Stucture-Mapper/blob/main/project_header.gif)
 
-Built with: Python
-
-Description: I was frustrated with manually making file maps so I made this.
+I was frustrated with manually making file maps so I made this.
 A Python utility that generates a Markdown file map of a directory structure, providing an easy-to-read, hierarchical 
 representation of files and directories. This tool is useful for documenting project structures, enhancing team collaboration, 
 and keeping track of complex directory setups.
+
+`Python`
 
 Link: [github.com/sparrowsaurora/File-Stucture-Mapper](https://github.com/sparrowsaurora/File-Stucture-Mapper)
 
@@ -84,6 +84,8 @@ Link: [github.com/sparrowsaurora/File-Stucture-Mapper](https://github.com/sparro
 
 Coming soon...
 
-Description: An AI chess bot that adapts to the player's skill level to help players improve their skills at a faster pace.
+An AI chess bot that adapts to the player's skill level to help players improve their skills at a faster pace.
+
+`Python`
 
 link: Coming soon...
