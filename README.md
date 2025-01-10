@@ -3,7 +3,7 @@
 -->
 # Hi, I'm [Sparrow](https://sparrowsaurora.github.io/Terminal-Portfolio/)
 
-## **`Programmer // enterpreneur // content creator`**
+## **`Programmer // content creator`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-kelley-8762a8285/) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/sparrows_aurora)
@@ -46,11 +46,11 @@ Contact me at: [sparrows.au@gmail.com](mailto:sparrows_aurora)
 
 Yuki is my passion project, an AI assistant that helps me with my coding and other tasks.
 That can also communticate with me using a custom voice module and humanised speech,
-Yuki also has a display model made with C# and displayed with a Raspberry Pi and a 7 inch screen.
+Yuki also has a display model that will be made with C# and displayed with a Raspberry Pi and a 7 inch screen.
 this allows for a more immersive experience and a more natural way of interacting with Yuki.
 As well as the ability to have yuki use computer vision and speach processing to help with real life tasks.
 
-`Python` `C#`
+**`Python`**
 
 Link: [github.com/sparrowsaurora/Yuki](https://github.com/sparrowsaurora/Yuki)
 
@@ -63,7 +63,7 @@ Link: [github.com/sparrowsaurora/Yuki](https://github.com/sparrowsaurora/Yuki)
 This website was made to be something special to me, im not the best at design so i wanted something unique and not fully static.
 plus.. if you can work this website, i know youre someone id love to work with.
 
-`HTML` `CSS` `JavaScript`
+**`HTML` `CSS` `JavaScript`**
 
 Link: [github.com/sparrowsaurora/Terminal-Portfolio](https://github.com/sparrowsaurora/Terminal-Portfolio)
 
@@ -76,7 +76,7 @@ A Python utility that generates a Markdown file map of a directory structure, pr
 representation of files and directories. This tool is useful for documenting project structures, enhancing team collaboration, 
 and keeping track of complex directory setups.
 
-`Python`
+**`Python`**
 
 Link: [github.com/sparrowsaurora/File-Stucture-Mapper](https://github.com/sparrowsaurora/File-Stucture-Mapper)
 
@@ -86,6 +86,6 @@ Coming soon...
 
 An AI chess bot that adapts to the player's skill level to help players improve their skills at a faster pace.
 
-`Python`
+**`Python`**
 
 link: Coming soon...
