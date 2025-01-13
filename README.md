@@ -82,10 +82,10 @@ Link: [github.com/sparrowsaurora/File-Stucture-Mapper](https://github.com/sparro
 
 ### Adaptive Chess Bot
 
-Coming soon...
-
-An AI chess bot that adapts to the player's skill level to help players improve their skills at a faster pace.
+An adaptive chess bot written in Python that analyses the player's skill level and adjusts its gameplay to match or slightly surpass it.
+Built with a custom neural that evaluates board positions and adapts to the player's skill level using an Elo system to be used in the CLI with UCI standard notation.
+This project adapts to the player's skill level to help players improve their skills at a faster pace.
 
 **`Python`**
 
-link: Coming soon...
+link: [github.com/sparrowsaurora/Adaptive-Chess-AI](https://github.com/sparrowsaurora/Adaptive-Chess-AI)
