@@ -78,7 +78,8 @@ Link: [github.com/sparrowsaurora/File-Stucture-Mapper](https://github.com/sparro
 An adaptive chess bot written in Python that analyses the player's skill level and adjusts its gameplay to match or slightly surpass it.
 The bot currently uses a minimax algorithm with alpha-beta pruning.
 Built with a custom neural that evaluates board positions and adapts to the player's skill level using an Elo system to be used in the CLI with UCI standard notation.
-This project adapts to the player's skill level to help players improve their skills at a faster pace.
+This project adapts to the player's skill level to help players improve their skills at a faster pace.  
+Warning: _For Any Players Above 1800 Elo The Bot's Moves May Take More Than 10 Seconds To Process_
 
 **`Python`**
 
