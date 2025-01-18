@@ -16,7 +16,7 @@ I'm currently studying a cert IV in programming and I'm passionate about buildin
 Currently I'm building Yuki an AI voice assistant with real-world capabilities to organize tasks and enhance productivity.
 I am actively learning advanced C++ and C# to build impactful projects in different ways.
 
-Contact me at: [sparrows.au@gmail.com](mailto:sparrows_aurora)
+Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 
 ### Languages and Tools
 
