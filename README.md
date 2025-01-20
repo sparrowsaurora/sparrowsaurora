@@ -11,10 +11,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sparrows_aurora)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sparrows_aurora)
 
-I'm a software developer and content creator with interests in AI, machine learning and building functional projects.  
-I'm currently studying a cert IV in programming and I'm passionate about building new and innovative projects.  
-Currently I'm building Yuki an AI voice assistant with real-world capabilities to organize tasks and enhance productivity.
-I am actively learning advanced C++ and C# to build impactful projects in different ways.
+I'm a software developer and content creator with interests in AI, machine learning and building functional projects.</br>
+I'm currently studying a cert IV in programming and I'm passionate about building new and innovative projects.</br>
+Currently I'm building Yuki an AI voice assistant with real-world capabilities to organize tasks and enhance productivity.</br>
+I am actively learning advanced C++ and C# to build impactful projects in different ways.</br>
 
 Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 
