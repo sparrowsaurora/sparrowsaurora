@@ -12,9 +12,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sparrows_aurora)
 
 I'm a software developer and content creator with interests in AI, machine learning and building functional projects.</br>
-I'm currently studying a cert IV in programming and I'm passionate about building new and innovative projects.</br>
-Currently I'm building Yuki an AI voice assistant with real-world capabilities to organize tasks and enhance productivity.</br>
-I am actively learning advanced C++ and C# to build impactful projects in different ways.</br>
+I'm currently studying a cert IV in programming at TAFE and Mechatronics in my free time</br>
+My goal is to study at MIT and develop innovative projects that give people more access to the world.</br>
 
 Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 
