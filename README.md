@@ -3,7 +3,7 @@
 -->
 # Hi, I'm [Sparrow](https://sparrowsaurora.github.io/Terminal-Portfolio/)
 
-## **`Programmer // content creator`**
+## **`Programmer // Content Creator // Entrepreneur`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-kelley-8762a8285/) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/sparrows_aurora)
