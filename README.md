@@ -15,7 +15,7 @@ I'm a software developer and content creator with interests in AI, machine learn
 I'm currently studying a cert IV in programming at TAFE and Mechatronics in my free time</br>
 My goal is to study at MIT and develop innovative projects that give people more access to the world.</br>
 
-_Current Project > Learning Arduino & Rust_  
+_Current Project > Learning C++_  
 
 Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 
