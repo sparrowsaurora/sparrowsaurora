@@ -12,7 +12,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sparrows_aurora)
 
 I'm a software developer and content creator with interests in AI, machine learning and building functional projects.</br>
-I'm currently studying a cert IV in programming at TAFE and Mechatronics in my free time</br>
+I'm currently studying a Diploma of Advanced programming at TAFE, and Mechatronics in my free time</br>
 My goal is to study at MIT and develop innovative projects that give people more access to the world.</br>
 
 _Current Project > Learning C++_  
