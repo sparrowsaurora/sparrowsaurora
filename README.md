@@ -38,9 +38,9 @@ Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 
 ### Stock Price Predictor
 
-A Stock price predictor that is a part of a larger project.
-Using the yfinance api, it analyses the data using a custom nerual network and displays the results using Tkinter and Matplotlib
-testing will be done with a paper trading account.
+A Stock price predictor that is a part of a larger project.  
+Using the yfinance api, it analyses the data using a custom nerual network and displays the results using Tkinter and Matplotlib  
+testing will be done with a paper trading account.  
 
 **`Python`**
 
@@ -52,7 +52,7 @@ Link: [github.com/sparrowsaurora/stock-price-predictor](https://github.com/sparr
 
 [Check it out here](https://sparrowsaurora.github.io/Terminal-Portfolio/)
 
-This website was made to be something special to me, im not the best at design so i wanted something unique and not fully static.
+This website was made to be something special to me, im not the best at design so i wanted something unique and not fully static.  
 plus.. if you can work this website, i know youre someone id love to work with.
 
 **`HTML` `CSS` `JavaScript`**
@@ -62,10 +62,10 @@ Link: [github.com/sparrowsaurora/Terminal-Portfolio](https://github.com/sparrows
 ### Bash-Salt
 
 ![File Structure Mapper header image](https://github.com/sparrowsaurora/File-Stucture-Mapper/blob/main/project_header.gif)  
-<sup>This is an image of the file structure mapping tool in Bash-salt</sup>
+<sup>This is an image of the file structure mapping tool in Bash-salt</sup>  
 
-A play on words of Bassalt, this is a collection of extra commands and tools for bash to make my life a little easier
-I was frustrated with manually making file maps, not having quick access to a ToDo list, and typing in long commands, so i made this.
+A play on words of Bassalt, this is a collection of extra commands and tools for bash to make my life a little easier.  
+I was frustrated with manually making file maps, not having quick access to a ToDo list, and typing in long commands, so i made this.  
 
 **`Python`**
 
@@ -73,11 +73,11 @@ Link: [github.com/sparrowsaurora/File-Stucture-Mapper](https://github.com/sparro
 
 ### Adaptive Chess Bot
 
-An adaptive chess bot written in Python that analyses the player's skill level and adjusts its gameplay to match or slightly surpass it.
-The bot currently uses a minimax algorithm with alpha-beta pruning.
-Built with a custom neural that evaluates board positions and adapts to the player's skill level using an Elo system to be used in the CLI with UCI standard notation.
+An adaptive chess bot written in Python that analyses the player's skill level and adjusts its gameplay to match or slightly surpass it.  
+The bot currently uses a minimax algorithm with alpha-beta pruning.  
+Built with a custom neural that evaluates board positions and adapts to the player's skill level using an Elo system to be used in the CLI with UCI standard notation.  
 This project adapts to the player's skill level to help players improve their skills at a faster pace.  
-Warning: _For Any Players Above 1800 Elo The Bot's Moves May Take More Than 10 Seconds To Process_
+Warning: _For Any Players Above 1800 Elo The Bot's Moves May Take More Than 10 Seconds To Process_  
 
 **`Python`**
 
