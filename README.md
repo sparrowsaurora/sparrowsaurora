@@ -12,7 +12,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sparrows_aurora)
 
 I'm a software developer and content creator with interests in AI, machine learning and building functional projects.</br>
-I'm currently studying a Diploma of Advanced programming at TAFE, and Mechatronics in my free time</br>
+I'm currently studying a Diploma of Advanced programming at TAFE, and Mechatronics in my free time.</br>
 My goal is to study at MIT and develop innovative projects that give people more access to the world.</br>
 
 _Current Project > Learning C++_  
@@ -36,17 +36,15 @@ Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 
 ## My Main Projects
 
-### Yuki
+### Stock Price Predictor
 
-Yuki is my passion project, an AI assistant that helps me with my coding and other tasks.
-That can also communticate with me using a custom voice module and humanised speech,
-Yuki also has a display model that will be made with C# and displayed with a Raspberry Pi and a 7 inch screen.
-this allows for a more immersive experience and a more natural way of interacting with Yuki.
-As well as the ability to have yuki use computer vision and speach processing to help with real life tasks.
+A Stock price predictor that is a part of a larger project.
+Using the yfinance api, it analyses the data using a custom nerual network and displays the results using Tkinter and Matplotlib
+testing will be done with a paper trading account.
 
 **`Python`**
 
-Link: [github.com/sparrowsaurora/Yuki](https://github.com/sparrowsaurora/Yuki)
+Link: [github.com/sparrowsaurora/stock-price-predictor](https://github.com/sparrowsaurora/stock-price-predicter)
 
 ### Terminal Portfolio
 
@@ -61,14 +59,13 @@ plus.. if you can work this website, i know youre someone id love to work with.
 
 Link: [github.com/sparrowsaurora/Terminal-Portfolio](https://github.com/sparrowsaurora/Terminal-Portfolio)
 
-### File Structure Mapper
+### Bash-Salt
 
-![File Structure Mapper header image](https://github.com/sparrowsaurora/File-Stucture-Mapper/blob/main/project_header.gif)
+![File Structure Mapper header image](https://github.com/sparrowsaurora/File-Stucture-Mapper/blob/main/project_header.gif)  
+<sup>This is an image of the file structure mapping tool in Bash-salt</sup>
 
-I was frustrated with manually making file maps so I made this.
-A Python utility that generates a Markdown file map of a directory structure, providing an easy-to-read, hierarchical 
-representation of files and directories. This tool is useful for documenting project structures, enhancing team collaboration, 
-and keeping track of complex directory setups.
+A play on words of Bassalt, this is a collection of extra commands and tools for bash to make my life a little easier
+I was frustrated with manually making file maps, not having quick access to a ToDo list, and typing in long commands, so i made this.
 
 **`Python`**
 
