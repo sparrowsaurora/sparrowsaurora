@@ -68,7 +68,7 @@ I was frustrated with manually making file maps, not having quick access to a To
 
 **`Python`**
 
-Link: [github.com/sparrowsaurora/File-Stucture-Mapper](https://github.com/sparrowsaurora/File-Stucture-Mapper)
+Link: [github.com/sparrowsaurora/Bash-salt](https://github.com/sparrowsaurora/Bash-salt)
 
 ### Adaptive Chess Bot
 
