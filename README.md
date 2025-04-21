@@ -46,7 +46,7 @@ Link: [github.com/sparrowsaurora/stock-price-predictor](https://github.com/sparr
 
 ### Terminal Portfolio
 
-![Terminal-style portfolio header image](https://github.com/sparrowsaurora/Terminal-Portfolio/blob/main/banner.png)
+![Terminal-style portfolio header image](https://github.com/sparrowsaurora/Terminal-Portfolio/blob/main/assets/banner.png)
 
 [Check it out here](https://sparrowsaurora.github.io/Terminal-Portfolio/)
 
