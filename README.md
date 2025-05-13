@@ -14,7 +14,7 @@ I'm a software developer and content creator with interests in AI, machine learn
 I'm currently studying a Diploma of Advanced programming at TAFE, and Mechatronics in my free time.</br>
 My goal is to study at MIT and develop innovative projects that give people more access to the world.</br>
 
-_Current Project > Learning C++_  
+_Current Project > Doing TAFE Assessments_  
 
 Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 
@@ -35,15 +35,17 @@ Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 
 ## My Main Projects
 
-### Stock Price Predictor
+### Bash-Salt
 
-A Stock price predictor that is a part of a larger project.  
-Using the yfinance api, it analyses the data using a custom nerual network and displays the results using Tkinter and Matplotlib  
-testing will be done with a paper trading account.  
+![File Structure Mapper header image](https://github.com/sparrowsaurora/File-Stucture-Mapper/blob/main/project_header.gif)  
+<sup>This is an image of the file structure mapping tool in Bash-salt</sup>  
+
+A play on words of Bassalt, this is a collection of extra commands and tools for bash to make my life a little easier.  
+I was frustrated with manually making file maps, not having quick access to a ToDo list, and typing in long commands, etc. so i made this.  
 
 **`Python`**
 
-Link: [github.com/sparrowsaurora/stock-price-predictor](https://github.com/sparrowsaurora/stock-price-predicter)
+Link: [github.com/sparrowsaurora/Bash-salt](https://github.com/sparrowsaurora/Bash-salt)
 
 ### Terminal Portfolio
 
@@ -57,18 +59,6 @@ plus.. if you can work this website, i know youre someone id love to work with.
 **`HTML` `CSS` `JavaScript`**
 
 Link: [github.com/sparrowsaurora/Terminal-Portfolio](https://github.com/sparrowsaurora/Terminal-Portfolio)
-
-### Bash-Salt
-
-![File Structure Mapper header image](https://github.com/sparrowsaurora/File-Stucture-Mapper/blob/main/project_header.gif)  
-<sup>This is an image of the file structure mapping tool in Bash-salt</sup>  
-
-A play on words of Bassalt, this is a collection of extra commands and tools for bash to make my life a little easier.  
-I was frustrated with manually making file maps, not having quick access to a ToDo list, and typing in long commands, so i made this.  
-
-**`Python`**
-
-Link: [github.com/sparrowsaurora/Bash-salt](https://github.com/sparrowsaurora/Bash-salt)
 
 ### Adaptive Chess Bot
 
