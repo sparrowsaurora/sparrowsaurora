@@ -40,10 +40,11 @@ Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 ![File Structure Mapper header image](https://github.com/sparrowsaurora/File-Stucture-Mapper/blob/main/project_header.gif)  
 <sup>This is an image of the file structure mapping tool in Bash-salt</sup>  
 
+A current free SaaP (Software as a Product) project im working on to help developers work more efficiently.  
 A play on words of Bassalt, this is a collection of extra commands and tools for bash to make my life a little easier.  
 I was frustrated with manually making file maps, not having quick access to a ToDo list, and typing in long commands, etc. so i made this.  
 
-**`Python`**
+**`Python` `PHP` `BASH` `TailwindCSS` `HTML`**
 
 Link: [github.com/sparrowsaurora/Bash-salt](https://github.com/sparrowsaurora/Bash-salt)
 
