@@ -11,7 +11,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sparrows_aurora)
 
 I'm a software developer and content creator with interests in AI, machine learning and building functional projects.</br>
-I'm currently studying a Diploma of Advanced programming at TAFE, and Mechatronics in my free time.</br>
+I'm currently studying a Diploma of Advanced programming at TAFE, and make other projects (like Bash-Salt) in my free time.</br>
 My goal is to study at MIT and develop innovative projects that give people more access to the world.</br>
 
 _Current Project > Doing TAFE Assessments_  
@@ -37,7 +37,7 @@ Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 
 ### Bash-Salt
 
-![File Structure Mapper header image](https://github.com/sparrowsaurora/File-Stucture-Mapper/blob/main/project_header.gif)  
+![Bash-salt home page image](https://github.com/sparrowsaurora/Bash-salt/blob/main/web/assets/out/home_page.png)  
 <sup>This is an image of the file structure mapping tool in Bash-salt</sup>  
 
 A current free SaaP (Software as a Product) project im working on to help developers work more efficiently.  
