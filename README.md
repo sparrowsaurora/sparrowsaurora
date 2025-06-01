@@ -45,9 +45,19 @@ A current free SaaP (Software as a Product) project im working on to help develo
 A play on words of Bassalt, this is a collection of extra commands and tools for bash to make my life a little easier.  
 I was frustrated with manually making file maps, not having quick access to a ToDo list, and typing in long commands, etc. so i made this.  
 
-**`Python` `PHP` `BASH` `TailwindCSS` `HTML`**
+**`Python` `PHP` `BASH` `TailwindCSS` `HTML` `MySQL`**
 
 Link: [github.com/sparrowsaurora/Bash-salt](https://github.com/sparrowsaurora/Bash-salt)
+
+### Bliss Invoicing (SaaS)
+
+A SaaS Product made to help small businesses, like my mother's business, and give more time back to the business owners and founders.  
+This service was intentionally designed to give as much functionality as possible on a free tier.  
+This is because I believe everyone should be able to have a good chance for success and a lot of other good options cost a forturne.  
+This service's main feature is the ability to generate, send and track invoices. as well as the ability to have these invoices paid.  
+Bliss Invoicing was named after my mother's cleaning business, 'Bliss Housekeeping', of which I'm so very proud of her for creating.  
+
+**`Python (Flask)` `BootstrapCSS` `HTML` `MySQL`**
 
 ### Terminal Portfolio
 
@@ -61,17 +71,5 @@ plus.. if you can work this website, i know youre someone id love to work with.
 **`HTML` `CSS` `JavaScript`**
 
 Link: [github.com/sparrowsaurora/Terminal-Portfolio](https://github.com/sparrowsaurora/Terminal-Portfolio)
-
-### Adaptive Chess Bot
-
-An adaptive chess bot written in Python that analyses the player's skill level and adjusts its gameplay to match or slightly surpass it.  
-The bot currently uses a minimax algorithm with alpha-beta pruning.  
-Built with a custom neural that evaluates board positions and adapts to the player's skill level using an Elo system to be used in the CLI with UCI standard notation.  
-This project adapts to the player's skill level to help players improve their skills at a faster pace.  
-Warning: _For Any Players Above 1800 Elo The Bot's Moves May Take More Than 10 Seconds To Process_  
-
-**`Python`**
-
-link: [github.com/sparrowsaurora/Adaptive-Chess-AI](https://github.com/sparrowsaurora/Adaptive-Chess-AI)
 
 [(Back To Top)](#top)
