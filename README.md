@@ -59,6 +59,8 @@ Bliss Invoicing was named after my mother's cleaning business, 'Bliss Housekeepi
 
 **`Python (Flask)` `BootstrapCSS` `HTML` `MySQL`**
 
+Link: [github.com/sparrowsaurora/Bliss-Invoicing](https://github.com/sparrowsaurora/Invoice-Generator-SaaS)
+
 ### Terminal Portfolio
 
 ![Terminal-style portfolio header image](https://github.com/sparrowsaurora/Terminal-Portfolio/blob/main/assets/banner.png)
