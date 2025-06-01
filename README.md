@@ -51,6 +51,8 @@ Link: [github.com/sparrowsaurora/Bash-salt](https://github.com/sparrowsaurora/Ba
 
 ### Bliss Invoicing (SaaS)
 
+![Bliss Invoicing's landing page](https://github.com/sparrowsaurora/Invoice-Generator-SaaS/blob/main/assets/bliss-invoicing-landing-page.png)
+
 A SaaS Product made to help small businesses, like my mother's business, and give more time back to the business owners and founders.  
 This service was intentionally designed to give as much functionality as possible on a free tier.  
 This is because I believe everyone should be able to have a good chance for success and a lot of other good options cost a forturne.  
