@@ -45,7 +45,7 @@ A current free SaaP (Software as a Product) project im working on to help develo
 A play on words of Bassalt, this is a collection of extra commands and tools for bash to make my life a little easier.  
 I was frustrated with manually making file maps, not having quick access to a ToDo list, and typing in long commands, etc. so i made this.  
 
-**`Python` `PHP` `BASH` `TailwindCSS` `HTML` `MySQL`**
+**`Python` `PHP` `BASH` `TailwindCSS` `HTML` `MySQL` `Rust`**
 
 Link: [github.com/sparrowsaurora/Bash-salt](https://github.com/sparrowsaurora/Bash-salt)
 
