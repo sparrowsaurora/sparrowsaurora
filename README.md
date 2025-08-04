@@ -39,7 +39,6 @@ Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 ### Bash-Salt
 
 ![Bash-salt home page image](https://github.com/sparrowsaurora/Bash-salt/blob/main/web/assets/out/home_page.png)  
-<sup>This is an image of the file structure mapping tool in Bash-salt</sup>  
 
 A current free SaaP (Software as a Product) project im working on to help developers work more efficiently.  
 A play on words of Bassalt, this is a collection of extra commands and tools for bash to make my life a little easier.  
