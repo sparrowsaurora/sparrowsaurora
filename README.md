@@ -14,7 +14,7 @@ I'm a software developer and content creator with interests in AI, machine learn
 I'm currently studying a Diploma of Advanced programming at TAFE, and make other projects (like [Bash-Salt](https://github.com/sparrowsaurora/Bash-salt)) in my free time.</br>
 My goal is to study at MIT and develop innovative projects that give people more access to the world.</br>
 
-_Current Project > Learning Embedded Rust_  
+_Current Project > Learning Embedded C++ & Data Science_  
 
 Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 
