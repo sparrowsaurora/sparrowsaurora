@@ -10,9 +10,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sparrows_aurora)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sparrows_aurora) -->
 
-I'm a software developer and content creator with interests in AI, machine learning and building functional projects.</br>
+I'm a software developer and content creator with interests in Low-level programming, technical docs and building functional projects.</br>
 I'm currently studying a Diploma of Advanced programming at TAFE, and make other projects (like [Bash-Salt](https://github.com/sparrowsaurora/Bash-salt)) in my free time.</br>
-My goal is to study at MIT and develop innovative projects that give people more access to the world.</br>
 
 _Current Project > Learning Embedded C++ & Data Science_  
 
@@ -31,6 +30,7 @@ Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 <img align="left" alt="Flutter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Laravel" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img align="left" alt="Typst" width="40px" style="padding-right:10px;" src="https://cdn.brandfetch.io/idECK3sDuz/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1753839336105" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Neovim" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />  
 <!-- <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> -->
