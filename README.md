@@ -6,8 +6,8 @@
 ## **`Programmer // Content Creator`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-kelley-8762a8285/) 
-<!-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sparrows_au) -->
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sparrows_aurora)
+<!-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sparrows_au) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sparrows_aurora) -->
 
 I'm a software developer and content creator with interests in Low-level programming, technical docs and building functional projects.</br>
