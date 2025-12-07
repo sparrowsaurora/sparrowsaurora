@@ -13,7 +13,7 @@
 I'm a software developer and content creator with interests in Low-level programming, technical docs and building functional projects.</br>
 I'm currently studying a Diploma of Advanced programming at TAFE, and make other projects (like [Bash-Salt](https://github.com/sparrowsaurora/Bash-salt)) in my free time.</br>
 
-_Current Project > Learning Embedded Programming_  
+_Current Project > Learning Embedded Programming & Assembly_  
 
 Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 
@@ -33,7 +33,7 @@ Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <!-- <img align="left" alt="Typst" width="40px" style="padding-right:10px;" src="https://cdn.brandfetch.io/idECK3sDuz/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1753839336105" />  -->
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Neovim" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />  
+<!-- <img align="left" alt="Neovim" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />   -->
 <!-- <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> -->
 <br/> <br/>  
   
@@ -47,29 +47,27 @@ A current free SaaP (Software as a Product) project im working on to help develo
 A play on words of Bassalt, this is a collection of extra commands and tools for bash to make my life a little easier.  
 I was frustrated with manually making file maps, not having quick access to a ToDo list, and typing in long commands, etc. so i made this.  
 
-**`Python` `PHP` `BASH` `TailwindCSS` `HTML` `MySQL` `Rust`**
+**`Python` `Rust` `PHP` `BASH` `TailwindCSS` `JavaScript`**
 
 Link: [github.com/sparrowsaurora/Bash-salt](https://github.com/sparrowsaurora/Bash-salt)
 
-### Bliss Invoicing (SaaS)
+### Unix Epoch Display
 
-![Bliss Invoicing's landing page](https://github.com/sparrowsaurora/Invoice-Generator-SaaS/blob/main/assets/bliss-invoicing-landing-page.png)
+<!-- ![An image of the finished display](https://github.com/sparrowsaurora/unix_epoch_display/blob/main/assets/finished_project.png) -->
 
-A SaaS Product made to help small businesses, like my mother's business, and give more time back to the business owners and founders.  
-This service was intentionally designed to give as much functionality as possible on a free tier.  
-This is because I believe everyone should be able to have a good chance for success and a lot of other good options cost a forturne.  
-This service's main feature is the ability to generate, send and track invoices. as well as the ability to have these invoices paid.  
-Bliss Invoicing was named after my mother's cleaning business, 'Bliss Housekeeping', of which I'm so very proud of her for creating.  
+A Unix timestamp clock with a digital display written on a rp2040 (Pi Pico).  
+This is a project I'm making for a friend. It has no practical use without changing the time display setting.  
+It displays the live Unix timestamp. Not much else to say it was fun to work on, and honestly, i loved working on it. 
 
-**`Python (Flask)` `BootstrapCSS` `HTML` `MySQL`**
+**`C++`**
 
-Link: [github.com/sparrowsaurora/Bliss-Invoicing](https://github.com/sparrowsaurora/Invoice-Generator-SaaS)
+Link: [github.com/sparrowsaurora/unix_epoch_display](https://github.com/sparrowsaurora/unix_epoch_display)
 
 ### Terminal Portfolio
 
 ![Terminal-style portfolio header image](https://github.com/sparrowsaurora/Terminal-Portfolio/blob/main/assets/banner.png)
 
-[Check it out here](https://sparrowsaurora.github.io/Terminal-Portfolio/)
+[Check it out here](https://ryankelley.dev/)
 
 This website was made to be something special to me, im not the best at design so i wanted something unique and not fully static.  
 plus.. if you can work this website, i know youre someone id love to work with.
