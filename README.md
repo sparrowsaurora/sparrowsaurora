@@ -9,10 +9,10 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sparrows_aurora)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sparrows_aurora) -->
 
-I'm a software developer and content creator with interests in Low-level programming, technical docs and building functional projects.</br>
-I'm currently studying a Diploma of Advanced programming at TAFE, and make other projects (like [Bash-Salt](https://github.com/sparrowsaurora/Bash-salt)) in my free time.</br>
+I'm a software developer and content creator with interests in Embedded systems programming, technical docs and building functional projects.</br>
+In my free time I'm building projects like [Bash-Salt](https://github.com/sparrowsaurora/Bash-salt) and embedded projects like a [Music control board](https://github.com/sparrowsaurora/music-control-device).</br>
 
-_Current Project > Learning Embedded Programming & x86-64 Assembly_  
+_Current Project > Learning Embedded Programming & ARM Assembly_  
 
 Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 
@@ -23,13 +23,13 @@ Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 <img align="left" alt="PHP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Dart" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+<img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<!-- <img align="left" alt="Dart" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /> -->
 <img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="TailwindCSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Flask" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-<img align="left" alt="Flutter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+<!-- <img align="left" alt="Flutter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /> -->
 <img align="left" alt="Laravel" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <!-- <img align="left" alt="Typst" width="40px" style="padding-right:10px;" src="https://cdn.brandfetch.io/idECK3sDuz/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1753839336105" />  -->
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <!-- <img align="left" alt="Neovim" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />   -->
@@ -54,11 +54,11 @@ Link: [github.com/sparrowsaurora/Bash-salt](https://github.com/sparrowsaurora/Ba
 
 <!-- ![An image of the finished display](https://github.com/sparrowsaurora/unix_epoch_display/blob/main/assets/finished_project.png) -->
 
-A Unix timestamp clock with a digital display written on a rp2040 (Pi Pico).  
+A Unix timestamp clock with a digital display written on a ESP32-C3.  
 This is a project I'm making for a friend. It has no practical use without changing the time display setting.  
-It displays the live Unix timestamp. Not much else to say it was fun to work on, and honestly, i loved working on it. 
+It displays the live Unix timestamp. Not much else to say it was quite a learning experience to work on, and honestly, I loved working on it. 
 
-**`C++`**
+**`C`**
 
 Link: [github.com/sparrowsaurora/unix_epoch_display](https://github.com/sparrowsaurora/unix_epoch_display)
 
