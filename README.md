@@ -46,9 +46,10 @@ A current free SaaP (Software as a Product) project im working on to help develo
 A play on words of Bassalt, this is a collection of extra commands and tools for bash to make my life a little easier.  
 I was frustrated with manually making file maps, not having quick access to a ToDo list, and typing in long commands, etc. so i made this.  
 
-**`Python` `Rust` `PHP` `BASH` `TailwindCSS` `JavaScript`**
-View the site at: [bash-salt.vercel.app](https://bash-salt.vercel.app/)
-Link: [github.com/sparrowsaurora/Bash-salt](https://github.com/sparrowsaurora/Bash-salt)
+**`Python` `Rust` `PHP` `BASH` `TailwindCSS` `JavaScript`**  
+
+View the site at: [bash-salt.vercel.app](https://bash-salt.vercel.app/)  
+Link: [github.com/sparrowsaurora/Bash-salt](https://github.com/sparrowsaurora/Bash-salt)  
 
 ### Unix Epoch Display
 
