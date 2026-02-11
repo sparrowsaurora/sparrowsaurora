@@ -7,12 +7,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-kelley-8762a8285/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sparrows_aurora)
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sparrows_aurora) -->
 
 I'm a software developer and content creator with interests in Embedded systems programming, technical docs and building functional projects.</br>
 In my free time I'm building projects like [Bash-Salt](https://github.com/sparrowsaurora/Bash-salt) and embedded projects like a [Music control board](https://github.com/sparrowsaurora/music-control-device).</br>
 
-_Current Project > Learning Embedded Programming & ARM Assembly_  
+_Current Project > Learning C++, properly this time_  
 
 Contact me at: [sparrows.au@gmail.com](mailto:sparrows.au@gmail.com)
 
@@ -46,22 +45,23 @@ A current free SaaP (Software as a Product) project im working on to help develo
 A play on words of Bassalt, this is a collection of extra commands and tools for bash to make my life a little easier.  
 I was frustrated with manually making file maps, not having quick access to a ToDo list, and typing in long commands, etc. so i made this.  
 
-**`Python` `Rust` `PHP` `BASH` `TailwindCSS` `JavaScript`**  
+**`BASH` `Python` `Rust` `C` `TailwindCSS` `JavaScript`**  
 
 View the site at: [bash-salt.vercel.app](https://bash-salt.vercel.app/)  
 Link: [github.com/sparrowsaurora/Bash-salt](https://github.com/sparrowsaurora/Bash-salt)  
 
-### Unix Epoch Display
+### Realtime chat app
 
-<!-- ![An image of the finished display](https://github.com/sparrowsaurora/unix_epoch_display/blob/main/assets/finished_project.png) -->
+<!-- ![An image of the finished display](https://github.com/sparrowsaurora/Realtime-chat-app/blob/main/assets/finished_project.png) -->
 
-A Unix timestamp clock with a digital display written on a ESP32-C3.  
-This is a project I'm making for a friend. It has no practical use without changing the time display setting.  
-It displays the live Unix timestamp. Not much else to say it was quite a learning experience to work on, and honestly, I loved working on it. 
+A real-time text chat application to help me better understand networking.
+A TCP connected chatroom with a monolithic architecture, allowing users to run a server, or join a room from the same base command using CLI arguments.
+It also has user customisations, like colours for a specific user's messages for clarity.
 
-**`C`**
 
-Link: [github.com/sparrowsaurora/unix_epoch_display](https://github.com/sparrowsaurora/unix_epoch_display)
+**`C++` `MakeFile`**
+
+Link: [github.com/sparrowsaurora/Realtime-chat-app](https://github.com/sparrowsaurora/Realtime-chat-app)
 
 ### Terminal Portfolio
 
