@@ -52,7 +52,7 @@ Link: [github.com/sparrowsaurora/Bash-salt](https://github.com/sparrowsaurora/Ba
 
 ### Realtime chat app
 
-<!-- ![An image of the finished display](https://github.com/sparrowsaurora/Realtime-chat-app/blob/main/assets/finished_project.png) -->
+![An image of the working chatroom](https://github.com/sparrowsaurora/Realtime-chat-app/blob/main/assets/project_demo.png)
 
 A real-time text chat application to help me better understand networking.
 A TCP connected chatroom with a monolithic architecture, allowing users to run a server, or join a room from the same base command using CLI arguments.
