@@ -13,7 +13,8 @@ In my free time from UNI I'm building projects like [Bash-Salt](https://github.c
 
 _Current Project > Learning C++_  
 
-Contact me at: [ryankelley1711@gmail.com](mailto:ryankelley1711@gmail.com)
+Contact me at: [ryankelley1711@gmail.com](mailto:ryankelley1711@gmail.com)  
+See My portfolio website: [ryankelley.dev](https://ryankelley.dev/)
 
 ### Languages and Tools
 
@@ -57,20 +58,21 @@ A TCP connected chatroom with a monolithic architecture, allowing users to run a
 It also has user customisations, like colours for a specific user's messages for clarity.
 
 
-**`C++` `MakeFile`**
+**`C++` `Makefile`**
 
 Link: [github.com/sparrowsaurora/Realtime-chat-app](https://github.com/sparrowsaurora/Realtime-chat-app)
 
-### Terminal Portfolio
+### Make Project
 
-[![Terminal-style portfolio header image](https://github.com/sparrowsaurora/Terminal-Portfolio/blob/main/assets/banner.png)](https://ryankelley.dev/)
+<!-- [![Demo of make project UI](https://github.com/sparrowsaurora/make-project/tree/main/docs)](https://github.com/sparrowsaurora/make-project) -->
 
-This website was made to be something special to me, im not the best at design so i wanted something unique and not fully static.  
-plus.. if you can work this website, i know youre someone id love to work with.
+I, like many other developers love to start assorted projects.  
+What i don't love is remembering how to set up my project structure and my Makefile and CMake.  
+I'm making this project so have a quick and easy way to set up projects  
+(I'm aware this project would be significantly easier in C++, but I'm practicing my C programming)  
 
-**`HTML` `CSS` `JavaScript`**
+**`C` `Makefile` `CMake`**
 
-View the site at: [ryankelley.dev](https://ryankelley.dev/)  
-Link: [github.com/sparrowsaurora/Terminal-Portfolio](https://github.com/sparrowsaurora/Terminal-Portfolio)
+Link: [github.com/sparrowsaurora/make-project](https://github.com/sparrowsaurora/make-project)
 
 [(Back To Top)](#top)
